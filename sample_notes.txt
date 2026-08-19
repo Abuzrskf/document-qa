@@ -1,0 +1,13 @@
+Introduction to Machine Learning
+
+Machine learning is a field of artificial intelligence where computer systems learn patterns from data.
+
+The three common categories discussed in introductory machine learning are supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning uses labelled examples. Classification predicts categories, while regression predicts numerical values.
+
+Unsupervised learning works with data without target labels. Clustering is a common example.
+
+A typical machine learning workflow includes collecting data, cleaning data, splitting data into training and test sets, training a model, evaluating the model, and using the model for predictions.
+
+Good data quality is important because missing, noisy, or biased data can affect model performance.
